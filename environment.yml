@@ -1,0 +1,7 @@
+name: yt_tutorials_env
+dependencies:
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - matplotlib
+  - seaborn
