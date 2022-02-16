@@ -1,7 +1,7 @@
 # Туториалы по Data science и Python
 
 ## Настройка окружения (`conda` или `venv`)
-###`conda`
+### `conda`
 * [Установите conda](https://docs.conda.io/en/latest/miniconda.html)
 * Создайте виртуальное окружение и установите зависимости `conda env create -f environment.yml`
 * Активируйте окружение `conda activate yt_tutorials_env`
