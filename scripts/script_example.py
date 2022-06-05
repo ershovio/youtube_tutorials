@@ -11,7 +11,7 @@ def bubble_sort(a: List[int]) -> List[int]:
     return a
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     arr = [1, 5, 8, 6]
     sorted_arr = bubble_sort(arr)
     print(sorted_arr)

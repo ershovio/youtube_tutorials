@@ -3,3 +3,4 @@ scikit-learn
 jupyterlab
 matplotlib
 seaborn
+black[jupyter]
